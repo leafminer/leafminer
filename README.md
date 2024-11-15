@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**leafminer/leafminer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +10,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+<div style="display:flex; margin: 0px; padding: 0px">
+![leafminer's GitHub stats](https://github-readme-stats.vercel.app/api?username=leafminer&theme=gruvbox_light&show_icons=true)
+![leafminer's GitHub stats](https://stats.justsong.cn/api/website/?url=https://blog.leafminer.cn/&style=flat&logo=github)
+</div>
+<div style="display:flex; margin: 0px; padding: 20px">
+<img src="https://github-readme-stats.vercel.app/api?username=leafminer&show_icons=true&theme=tokyonight" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leafminer&layout=compact" height="160" />
+</div>
